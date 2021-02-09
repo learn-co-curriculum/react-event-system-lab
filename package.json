@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "jsdom": "^9.9.1",
-    "mocha": "^6.2.1",
+    "mocha": "^8.2.1",
     "react-scripts": "^1.0.7",
     "react-test-renderer": "^16.0.0",
     "webpack": "^3.6.0",
@@ -32,7 +32,8 @@
     "react": "^16.0.0",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^16.0.0",
-    "sinon": "^1.17.7"
+    "sinon": "^1.17.7",
+    "whatwg-url": "8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
